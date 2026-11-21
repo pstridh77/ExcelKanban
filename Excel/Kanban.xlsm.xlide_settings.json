@@ -1,4 +1,5 @@
 {
   "exportFolder": "c:\\Users\\pstri\\ExcelKanban\\ExcelKanban\\Excel\\Export",
-  "exportMode": "exportAll"
+  "exportMode": "exportAll",
+  "importMode": "updateOnly"
 }

@@ -161,7 +161,7 @@ Public Sub KortKlick()
 
     ID = CLng(Replace(ShapeName, "Task_", ""))
 
-    MsgBox "Du klickade på uppgift " & ID
+    MsgBox "Du klickade på uppgift #" & ID
 
 End Sub
 
